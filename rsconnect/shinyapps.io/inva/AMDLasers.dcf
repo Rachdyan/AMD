@@ -1,0 +1,13 @@
+name: AMDLasers
+title: AMDLasers
+username: inva
+account: inva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12473681
+bundleId: 8998464
+url: https://inva.shinyapps.io/AMDLasers/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: PossibleCorruptedFiles.zip

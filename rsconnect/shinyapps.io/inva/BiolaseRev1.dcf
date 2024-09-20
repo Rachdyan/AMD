@@ -1,0 +1,13 @@
+name: BiolaseRev1
+title: BiolaseRev1
+username: inva
+account: inva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12465077
+bundleId: 8991584
+url: https://inva.shinyapps.io/BiolaseRev1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: PossibleCorruptedFiles.zip

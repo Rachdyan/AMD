@@ -1,0 +1,12 @@
+name: DentalLoupeInserts
+title: DentalLoupeInserts
+username:
+account: invo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9631793
+bundleId:
+url: https://invo.shinyapps.io/DentalLoupeInserts/
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_transform.Rmd|Master_2.xlsx

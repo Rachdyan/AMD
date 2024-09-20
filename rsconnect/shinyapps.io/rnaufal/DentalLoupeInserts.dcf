@@ -1,0 +1,12 @@
+name: DentalLoupeInserts
+title: DentalLoupeInserts
+username: rnaufal
+account: rnaufal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12108906
+bundleId: 8719431
+url: https://rnaufal.shinyapps.io/DentalLoupeInserts/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

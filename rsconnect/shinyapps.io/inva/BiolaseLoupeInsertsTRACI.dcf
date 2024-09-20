@@ -1,0 +1,12 @@
+name: BiolaseLoupeInsertsTRACI
+title: BiolaseLoupeInsertsTRACI
+username: inva
+account: inva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12201627
+bundleId: 8772637
+url: https://inva.shinyapps.io/BiolaseLoupeInsertsTRACI/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

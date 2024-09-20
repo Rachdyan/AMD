@@ -1,0 +1,12 @@
+name: BiolaseLoupeInserts
+title: BiolaseLoupeInserts
+username: inva
+account: inva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12192376
+bundleId: 8784006
+url: https://inva.shinyapps.io/BiolaseLoupeInserts/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

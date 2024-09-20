@@ -1,0 +1,24 @@
+Package: AMD
+Title: Search Tool for finding Loupe compatible laser eye protection
+Version: 0.0.0.9000
+Authors@R: person('Melissa', 'Rich', email = 'melissa@innovativeoptics.com', role = c('cre', 'aut'))
+Description: Find laser satefy eyewear for dental lasers. Compatible with magnifying loupes. Use for companies, such as: Heine, Lumadent, Orascoptic, Andau. Ergo and Traditional Style.
+License: What license is it under?
+Imports: 
+    bslib,
+    config (>= 0.3.1),
+    dplyr,
+    golem (>= 0.4.0),
+    pkgload,
+    purrr,
+    readxl,
+    scales,
+    shiny (>= 1.7.4),
+    shinyjs
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
